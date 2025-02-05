@@ -1,0 +1,22 @@
+1. Ana
+    Alcance de usuario = 100
+    Magnitud de proyecto = pequeño
+
+2. Choose Architecture
+    MVC - 80%
+    70% - Rendimiento
+    60% - Complejidad
+    75% - Fiabilidad
+
+    Layered Architecture - 70%
+    65% - Rendimiento
+    50% - Complejidad
+    70% - Fiabilidad
+
+    Clean Architecture - 60%
+    60% - Rendimiento
+    70% - Complejidad
+    80% - Fiabilidad
+
+3. Selected
+    MVC

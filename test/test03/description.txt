@@ -1,0 +1,22 @@
+1. Ana
+    Alcance de usuario = 700
+    Magnitud de proyecto = Grande
+
+2. Choose Architecture
+    Microservices Architecture - 90%
+    85% - Rendimiento
+    70% - Complejidad
+    80% - Fiabilidad
+
+    Clean Architecture - 80%
+    75% - Rendimiento
+    65% - Complejidad
+    85% - Fiabilidad
+
+    Hexagonal Architecture - 70%
+    70% - Rendimiento
+    60% - Complejidad
+    75% - Fiabilidad
+
+3. Selected
+    Microservices Architecture
