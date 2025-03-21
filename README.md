@@ -1,4 +1,4 @@
-[Link del sistema](https://bootstrap-sandbox-architecture.pages.dev/"Link del sistema")
+[Link del sistema](https://bootstrap-sandbox-architecture.pages.dev/ "Link del sistema")
 [Codigo fuente](https://github.com/citseOfficial/bootstrap-sandbox-architecture.git "Codigo fuente")
 
 ## Lista de requerimientos
