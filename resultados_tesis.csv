@@ -1,0 +1,11 @@
+Categoría,Métrica Técnica,Antes (Legacy),Después (Generada),Unidad
+Performance,Uso promedio de CPU (%),75.2,43.7,%
+Performance,Uso máximo de CPU (%),92.3,66.1,%
+Performance,Consumo promedio de memoria (MB),420,230,MB
+Performance,Consumo máximo de memoria (MB),530,310,MB
+Performance,Tiempo promedio de respuesta (ms),850,480,ms
+Performance,Tiempo máximo de respuesta (ms),1410,720,ms
+Complexity,Errores por minuto,14.2,3.1,errores/min
+Performance,Solicitudes procesadas por segundo,95,180,req/s
+Reliability,Disponibilidad (%),96.2,99.6,%
+
